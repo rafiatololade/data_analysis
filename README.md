@@ -1,2 +1,2 @@
 # data_analysis
-My learners
+My learnings
